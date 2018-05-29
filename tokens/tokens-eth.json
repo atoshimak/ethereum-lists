@@ -6690,6 +6690,36 @@
 		}
 	},
 	{
+		"symbol": "FYE",
+		"address": "0XDE9F3378969B482B2223B7BA9C6F9B5186F3124A",
+		"decimals": 8,
+		"name": "Faythe",
+		"ens_address": "",
+		"website": "https://faythe.io",
+		"logo": { 
+			"src": "https://www.faythe.io/FYE.png", 
+			"width": "28", 
+			"height": "28", 
+			"ipfs_hash": "" 
+		},
+		"support": { "email": "io@faythe.io", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/faythetalk",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "FYN",
 		"address": "0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a",
 		"decimals": 18,
@@ -15339,6 +15369,36 @@
 			"slack": "https://tronfoundation.slack.com",
 			"telegram": "https://t.me/joinchat/GIjGvkK7dhnO8gapCPfqew",
 			"twitter": "https://twitter.com/tronfoundation",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "TTP",
+		"address": "0X38F22479795A1A51CCD1E5A41F09C7525FB27318",
+		"decimals": 15,
+		"name": "Trent",
+		"ens_address": "",
+		"website": "https://faythe.io",
+		"logo": { 
+			"src": "https://www.faythe.io/TTP.png", 
+			"width": "28", 
+			"height": "28", 
+			"ipfs_hash": "" 
+		},
+		"support": { "email": "io@faythe.io", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/faythetalk",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
